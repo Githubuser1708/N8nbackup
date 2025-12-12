@@ -1,5 +1,5 @@
 # N8N Backup
-This repository contains all workflows created in n8n.
+This repository contains workflows created in n8n and yhey are automatically backed up on schedule.
 Some of the Workflows:
 
 1. WhatsappChat
